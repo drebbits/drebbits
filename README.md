@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @bitscirclelabs
+- 🔭 I’m currently working at [@bitscirclelabs](https://github.com/bitscirclelabs)
 - 📫 Email me at dreb@bitscircle.com
 - ⚡ Fun fact: give ma a moment....
 
